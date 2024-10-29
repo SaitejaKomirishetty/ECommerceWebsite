@@ -4,7 +4,7 @@ This is a modern and responsive E-commerce website website for a furniture shops
 
 You can try out the deployed version of the app here: [COMFY SLOTH](https://saitejakomirishetty.github.io/ECommerceWebsite/)
 
-![Home section](/Images/HomePagepng 'Home section')
+![Home section](/Images/HomePage.png 'Home section')
 ![body section](/Images/AboutPage.png 'Body section')
 
 ## Technologies Used
